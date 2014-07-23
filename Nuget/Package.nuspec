@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NFaker</id>
+    <version>1.3.2</version>
+    <authors>YCode Team/authors>
+    <owners>YCode Team</owners>
+    <licenseUrl>https://github.com/ycodeteam/NFaker</licenseUrl>
+    <projectUrl>https://github.com/ycodeteam/NFaker</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NFaker is a rewrite of ruby ffaker to .net Developers</description>
+    <tags>Tests Faker .net</tags>
+  </metadata>
+</package>
